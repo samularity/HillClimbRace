@@ -12,7 +12,9 @@ you can get about 40000 points each run, a run takes 32seconds
 
 
 touch arm protoype with antistatic bag
-![touch arm protoype with antistatic bag](https://raw.github.com/samularity/HillClimbRace/Master/touch_arm.jpg)
+
+![touch arm protoype with antistatic bag](https://raw.githubusercontent.com/samularity/HillClimbRace/master/touch_arm.jpg)
 
 click pic below to play video
+
 [![watch it play](http://img.youtube.com/vi/TWLWyoDEwZM/0.jpg)](http://www.youtube.com/watch?v=TWLWyoDEwZM)
