@@ -18,3 +18,7 @@ touch arm protoype with antistatic bag
 click pic below to play video
 
 [![watch it play](http://img.youtube.com/vi/TWLWyoDEwZM/0.jpg)](http://www.youtube.com/watch?v=TWLWyoDEwZM)
+
+this was done because of https://github.com/janitz told me once
+"a stupid machine can never beat a hardworking human"
+it proved to be wrong
